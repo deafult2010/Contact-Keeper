@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://root:Flagex2010@cluster0-8beqf.mongodb.net/admin?retryWrites=true&w=majority"
+}
